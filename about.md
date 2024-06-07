@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Benjamin Jørgensen, originally from Norway, has lived in Japan since 2019, and is currently working there as a Software Developer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My hobbies range from gaming, self-hosting and coding. I love learning new things, and always look for a new project.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+me [with the curly a] benmi.me
