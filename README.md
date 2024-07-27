@@ -4,4 +4,4 @@ The main purpose of this blog is for me to express my interests, and try to expl
 
 Have fun doing what you want to do!
 
-This Blog is made u!sing Jakyll Now
+This Blog is made using Jakyll Now!
